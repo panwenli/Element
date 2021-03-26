@@ -1,7 +1,7 @@
 import Vue from 'vue';
 import ElementUI from 'element-ui';
 import 'element-ui/lib/theme-chalk/index.css';
-import App from './data/table/index.vue';
+import App from './data/pagination/index.vue';
 
 Vue.use(ElementUI);
 
